@@ -1,6 +1,4 @@
 # Portfolio
-# Personal Portfolio 🔥
-https://github.com/Ragulakarthik/
 # Portfolio Link :https://ragulakarthik.github.io/Portfolio/KarthikRagula_Portfolio/index.html
 :star: Star me on GitHub — it helps!
 
